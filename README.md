@@ -1,6 +1,6 @@
 # modal_progress_hud_alt
 
-### This is a null-safety clone of (modal_progress_hud)[https://pub.dev/packages/modal_progress_hud]
+### This is a null-safety clone of [modal_progress_hud](https://pub.dev/packages/modal_progress_hud)
 
 A simple widget wrapper to enable modal progress HUD (a modal progress indicator, HUD = Heads Up Display)
 
